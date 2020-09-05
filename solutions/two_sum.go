@@ -1,3 +1,5 @@
+/*https://leetcode.com/problems/two-sum/*/
+
 package solutions
 
 // brute force way O(n^2)
